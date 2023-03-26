@@ -1,0 +1,1 @@
+"Inno Setup 6/ISCC.exe" setup.iss
