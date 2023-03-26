@@ -38,7 +38,7 @@ SetupIconFile=src\QuranPresenter.ico
 LicenseFile=src\Terms of conditions.rtf
 WizardImageFile=src\Installer\WizardImageFile.bmp
 WizardSmallImageFile=src\Installer\WizardSmallImageFile.bmp
-;signTool=signTool $f
+signTool=signTool $f
 
 [Languages]
 Name: en; MessagesFile: compiler:Default.isl
